@@ -1,0 +1,5 @@
+#python==3.10.11
+streamlit==1.40.2
+rembg==2.0.60
+onnxruntime==1.20.1
+Pillow==11.0.0

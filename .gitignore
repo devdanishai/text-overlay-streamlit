@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+venv/
+
+# IDE settings
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Temporary or backup files
+*.swp
+*.log
